@@ -1,0 +1,7 @@
+wand
+opencv-python
+tqdm
+pillow
+pytesseract
+cnstd
+pix2tex
